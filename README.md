@@ -16,6 +16,7 @@ Sou um **Cientista de Dados** com sólida formação em **Ciências Navais e Ges
 * **Outros:** Gestão de Banco de Dados Relacionais, Análise Exploratória de Dados (AED)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rod-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>
 
 ---
